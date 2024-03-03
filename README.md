@@ -1,2 +1,2 @@
-# C-Plus-Plus-Study
+# C ++ Study
 C ++ Study
